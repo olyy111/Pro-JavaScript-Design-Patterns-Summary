@@ -1,7 +1,5 @@
-you can
-intercept incoming logic from the suppliers and transform them in a way that the receivers
-can understand.
-
+## One sentence
+I want to user the new better interface, but I don't want to avoid massive code rewrites
 
 ## How to use adapter pattern
 Find the point of integration
